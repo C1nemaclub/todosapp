@@ -3,3 +3,8 @@
   margin: 0;
   box-sizing: 0;
 }
+
+li:hover {
+  color: red;
+  cursor: pointer;
+}
